@@ -1,6 +1,6 @@
 package ru.netology.hibernate.model;
 
-import lombok.AllArgsConstructor;
+import slombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
